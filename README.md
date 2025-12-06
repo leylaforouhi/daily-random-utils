@@ -1,4 +1,4 @@
-import uuid
+import uui
 import datetime
 
 def generate_unique_code():
